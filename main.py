@@ -78,5 +78,3 @@ while True:
 
     if jogador != '1' and jogador != '2' and jogador != '3':
         print('nao entendi')
-    
-#para cada possivel resposta do usuario é feita uma analise pelo programa 
